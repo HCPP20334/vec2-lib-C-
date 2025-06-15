@@ -31,7 +31,7 @@ int main() {
     d64Vec2 position(3.14159, 2.71828);
 
     // Access elements
-    std::cout << "Screen: " << pixel[0] << "x" << pixel[1] << std::endl;
+    std::cout << "Screen: " << pixel.x << "x" << pixel.y << std::endl;
 
     // Check sizes
     GetAllVec2Size();
