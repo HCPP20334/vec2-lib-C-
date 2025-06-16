@@ -18,7 +18,7 @@ A header-only library providing 2D vector structures with various numeric types.
 Simply copy `vec2.h` to your project's include directory:
 
 ```bash
-wget https://raw.githubusercontent.com/hcpp20334/your-repo/main/vec2.h
+wget https://raw.githubusercontent.com/hcpp20334/vec2-lib-C-/main/vec2.h
 ```
 ```C++
 Usage
